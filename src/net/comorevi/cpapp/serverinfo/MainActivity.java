@@ -1,6 +1,6 @@
 package net.comorevi.cpapp.serverinfo;
 
-import net.comorevi.cphone.cphone .CPhone;
+import net.comorevi.cphone.cphone.CPhone;
 import net.comorevi.cphone.cphone.application.ApplicationManifest;
 import net.comorevi.cphone.cphone.model.Bundle;
 import net.comorevi.cphone.cphone.model.ModalResponse;
