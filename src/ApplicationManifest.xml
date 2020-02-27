@@ -11,7 +11,7 @@
         <icon>https://google.co.jp/</icon>
     </application>
 
-    <permission type = "default" />
+    <permission type = "everyone" />
 
     <activity>
         <name>MainActivity</name>
